@@ -15,5 +15,5 @@
 <img alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/><br/>
 
 Estudante de Analise e Desenvolvimento de Sistemas 💻🤓<br/>
-Apaixonado por CyberSecurity 💻👾
+Entusialista por CyberSecurity 💻👾
 
