@@ -3,6 +3,7 @@
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-enzo-117a4a302) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_luna86)
 
 ![Pedro Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroProgramador86&show_icons=true&theme=dark)
+ <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroProgramador86&layout-compact&langs_count=16&theme=dark"/>
 
 ## Tecnologias que estou aprendendo
 
