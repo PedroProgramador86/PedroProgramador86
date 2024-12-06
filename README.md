@@ -12,8 +12,11 @@
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img alt="Linux" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/><br/>
+<img alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
 
 Estudante de Analise e Desenvolvimento de Sistemas 💻🤓<br/>
-Apaixonado por CyberSecurity 💻👾
+Apaixonado por CyberSecurity 💻👾<br>
+🔴🥷🏼 Offensive Security 🥷🏼🔴
 
