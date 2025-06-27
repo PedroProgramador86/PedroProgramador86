@@ -1,13 +1,18 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MayaraOliveir/count.svg"  />
-</div>
+  <img src="https://profile-counter.glitch.me/PedroProgramador86/count.svg"  />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Pedro+Enzo;I'm+19+years+old;I'm+studying+Systems+Analysis+and+Development)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Pedro+Enzo;I'm+19+years+old;I'm+studying+of+Systems+Analysis+and+Development;I+am+focused+on+CyberSecurity)](https://git.io/typing-svg)
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-enzo-117a4a302) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_luna86)
 
 ![Pedro Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroProgramador86&show_icons=true&theme=dark)
  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroProgramador86&layout-compact&langs_count=16&theme=dark"/>
+
+ 
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroProgramador86&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 ## Tecnologias que estou Aprendendo e Utilizando
 
@@ -30,4 +35,33 @@
 Estudante de Analise e Desenvolvimento de Sistemas 💻🤓<br/>
 Apaixonado por CyberSecurity 💻👾<br>
 🔴🥷🏼 Offensive Security 🥷🏼🔴
+
+
+
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+
+</div>
+
 
