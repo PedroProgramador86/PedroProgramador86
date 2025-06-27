@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MayaraOliveir/count.svg"  />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Pedro+Enzo;I'm+19+years+old;I'm+studying+Systems+Analysis+and+Development)](https://git.io/typing-svg)
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-enzo-117a4a302) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_luna86)
