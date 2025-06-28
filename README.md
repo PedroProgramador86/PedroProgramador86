@@ -32,8 +32,8 @@
 <img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <br/><br/>
 
-Estudante de Analise e Desenvolvimento de Sistemas 💻🤓<br/>
-Apaixonado por CyberSecurity 💻👾<br>
+🤓💻Estudante de Analise e Desenvolvimento de Sistemas 💻🤓<br/>
+👾💻Apaixonado por CyberSecurity 💻👾<br>
 🔴🥷🏼 Offensive Security 🥷🏼🔴
 
 
