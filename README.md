@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PedroProgramador86/count.svg"  />
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Pedro+Enzo;I'm+19+years+old;I'm+studying+of+Systems+Analysis+and+Development;I+am+focused+on+CyberSecurity)](https://git.io/typing-svg)
 
